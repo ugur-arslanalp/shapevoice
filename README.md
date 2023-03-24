@@ -1,7 +1,7 @@
 ![ugur-arslanalp github io_shapevoice_](https://user-images.githubusercontent.com/86876940/227037475-89cb9f0f-57e6-4df7-96f3-48f69f5dfcbc.png)
 
 ## Shapevoice Page
-This is a payment system page UI
+This is the landing page UI for the NFT marketplace. Built with HTML ,CSS and JavaScript
 
 ### Details
 * Tech stack: HTML + CSS
